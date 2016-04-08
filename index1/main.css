@@ -1,0 +1,15 @@
+.caja{
+	width: 200px;
+	height: 200px;
+	position: static;
+	margin: 0;
+	padding: 0;
+}
+.rojo{
+	background: #ee3e64;
+}
+.azul{
+	background: #44accf;
+}
+.verde{
+	background: #b7d84b;
